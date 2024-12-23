@@ -4,3 +4,4 @@ site_name: RAAFv SOPS
 site_url: https://grden-gnome.github.io/RAAFv-Sops/
 theme:
   name: material
+  logo: assets/logo.png
