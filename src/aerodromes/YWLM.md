@@ -62,3 +62,5 @@ Caution: Salt-Ash Weapons Range (SAWR/R596) to the North-East (`SFC`-`FL120`) Ac
         - RNP X 30 (For Civil use only)
         - RNP W 30 (For Civil use only)
         - NDB RWY 30
+
+For additional information refer to the Williamtown AD2 Sup found in the [RAAF AIP](https://ais-af.airforce.gov.au/australian-aip)
