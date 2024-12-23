@@ -37,7 +37,7 @@
 ## Departures
 - Fast Jet departures to M550:
     - RWY 12:
-        - RWY HDG (118°) TO COASTLINE, then turn left to H060°M to intercept 080° TAC WLM, then Enter M550 via Lane 4 at FL125 25DME WLM
+        - RWY HDG (118°) TO COASTLINE, then turn left to H060° to intercept 080° TAC WLM, then Enter M550 via Lane 4 at FL125 25DME WLM
     - RWY 30:
         - RWY HDG (298°) to 1DME, then turn left to intercept 080° TAC WLM, then enter M550 via Lane 4 at FL125 25 DME WLM
 - Departures for other A/C:
@@ -45,3 +45,20 @@
     - via Fast Jet procedures
 
 ## Arrivals
+- Visual to Initial:
+    - Intial Pos. 30 sec prior to IP at 2500', A/C must descend to reach 2500' by the IP, descend to reach 1500' by the pitch.
+- Stero Approach:
+    - IAF overhead WLM at FL125, then turn to H360° to intercept the 15DME ARC. Then descendto intercept the final app course of 118°. Refer to YWLM AD2 sup for more information
+![YWLM Intial Points](img/WLMIAP.png)
+Caution: Salt-Ash Weapons Range (SAWR/R596) to the North-East (`SFC`-`FL120`) Activated on Notam
+- Available Instrument approaches
+    - RWY 12
+        - **ILS Z RWY 12**
+        - RNP Z RWY 12
+        - RNP X RWY 12 (For Civil use only)
+        - NDB RWY 12
+    - RWY 30
+        - **RNP Z RWY 30**
+        - RNP X 30 (For Civil use only)
+        - RNP W 30 (For Civil use only)
+        - NDB RWY 30
