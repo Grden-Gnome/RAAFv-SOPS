@@ -3,10 +3,9 @@
 ---
 ## YWLM Parking Diagram
 
-<figure markdown>
-![YWLM Parking Diagram](img/YWLM_parking.png){ width="700" }
-<figcaption>YWLM Parking Diagram</figcaption>
-</figure>
+
+![YWLM Parking Diagram](img/YWLM_parking.png)
+
 
 ## Important Frequencies
 | Name               | Callsign       | Frequency        | 
@@ -45,4 +44,4 @@
     - Per published SID (via KEXAR, LIMLO, MONDO, UBSON or radar dep)
     - via Fast Jet procedures
 
-## Visual Arrivals
+## Arrivals
