@@ -2,6 +2,8 @@
 
 **All procedures are based off of real life docs found at** [ais-af.airforce.gov.au](https://ais-af.airforce.gov.au/australian-aip).
 
+Still a work in progress, currently only YWLM has got content
+
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
