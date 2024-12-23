@@ -1,4 +1,6 @@
+docs_dir: src
+site_dir: docs
 site_name: RAAFv SOPS
-site_url: https://sops.RAAFVirtual.org
+site_url: https://grden-gnome.github.io/RAAFv-Sops/
 theme:
   name: material
